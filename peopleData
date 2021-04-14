@@ -1,4 +1,4 @@
-
+[
     {
       "id": 1,
       "firstname": "Bhargav",
@@ -149,4 +149,4 @@
       "lastname": "Gubbala",
       "age": 37
     }
- 
+ ]
